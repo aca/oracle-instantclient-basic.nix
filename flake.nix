@@ -58,7 +58,7 @@
         {
           x86_64-linux = {
             basic = "sha256-Y4Nb9DO2s+ISCC371VZigw0hBNccx+dQzs2gOXJv6VY=";
-            basiclite = "";
+            basiclite = "sha256-QTMlYN3TZkCM07R9F9Kga+ufEJFRW8fsEiZ2OOJgcC0=";
             sdk = "sha256-TIBFi1jHLJh+SUNFvuL7aJpxh61hG6gXhFIhvdPgpts=";
             sqlplus = "sha256-mF9kLjhZXe/fasYDfmZrYPL2CzAp3xDbi624RJDA4lM=";
             tools = "sha256-ay8ynzo1fPHbCg9GoIT5ja//iZPIZA2yXI/auVExiRY=";
