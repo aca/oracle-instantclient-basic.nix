@@ -66,7 +66,7 @@
           };
           aarch64-linux = {
             basic = "sha256-DNntH20BAmo5kOz7uEgW2NXaNfwdvJ8l8oMnp50BOsY=";
-            basiclite = "";
+            basiclite = "sha256-p9Xy9nfhAXV33O+HK344AqqEoH8Zoa415EiDRTsUocM=";
             sdk = "sha256-8VpkNyLyFMUfQwbZpSDV/CB95RoXfaMr8w58cRt/syw=";
             sqlplus = "sha256-iHcyijHhAvjsAqN9R+Rxo2R47k940VvPbScc2MWYn0Q=";
             tools = "sha256-4QY0EwcnctwPm6ZGDZLudOFM4UycLFmRIluKGXVwR0M=";
