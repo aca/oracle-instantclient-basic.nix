@@ -82,7 +82,7 @@
           };
           aarch64-darwin = {
             basic = "sha256-V+1BmPOhDYPNXdwkcsBY1MOwt4Yka66/a7/HORzBIIc=";
-            basiclite = "";
+            basiclite = "sha256-gvzCgHJtr60CVPMaXcc2HI684Y5etO1nakFD3aiqua8=";
             sdk = "sha256-D6iuTEQYqmbOh1z5LnKN16ga6vLmjnkm4QK15S/Iukw=";
             sqlplus = "sha256-08uoiwoKPZmTxLZLYRVp0UbN827FXdhOukeDUXvTCVk=";
             tools = "sha256-1xFFGZapFq9ogGQ6ePSv4PrXl5qOAgRZWAp4mJ5uxdU=";
